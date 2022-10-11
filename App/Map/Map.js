@@ -3,7 +3,7 @@ import {SafeAreaView, StyleSheet, View, PermissionsAndroid,} from 'react-native'
 import MapView, {Marker, Polyline} from 'react-native-maps';
 import MapViewDirections from 'react-native-maps-directions';
 
-const GOOGLE_MAPS_APIKEY = 'AIzaSyC_HK66GfUOAGcqWnjXCNLMEuptcZrP5nE';
+const GOOGLE_MAPS_APIKEY = 'XXX';
 
 const myOrigin = {latitude: 37.4, longitude:  -121.983922}
 const myDestination = {latitude: 37.5, longitude:  -121.983922}
